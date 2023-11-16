@@ -14,6 +14,7 @@
 		801E8AFF2B060F200033C8AF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 801E8AFD2B060F200033C8AF /* LaunchScreen.storyboard */; };
 		801E8B092B0617540033C8AF /* Keys.swift in Sources */ = {isa = PBXBuildFile; fileRef = 801E8B082B0617540033C8AF /* Keys.swift */; };
 		801E8B0B2B0617B10033C8AF /* NewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 801E8B0A2B0617B10033C8AF /* NewViewController.swift */; };
+		801E8B0D2B0625890033C8AF /* PaywallViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 801E8B0C2B0625890033C8AF /* PaywallViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		801E8B002B060F200033C8AF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		801E8B082B0617540033C8AF /* Keys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Keys.swift; sourceTree = "<group>"; };
 		801E8B0A2B0617B10033C8AF /* NewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewViewController.swift; sourceTree = "<group>"; };
+		801E8B0C2B0625890033C8AF /* PaywallViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaywallViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				801E8B002B060F200033C8AF /* Info.plist */,
 				801E8B082B0617540033C8AF /* Keys.swift */,
 				801E8B0A2B0617B10033C8AF /* NewViewController.swift */,
+				801E8B0C2B0625890033C8AF /* PaywallViewController.swift */,
 			);
 			path = TestIDProject;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 				801E8B0B2B0617B10033C8AF /* NewViewController.swift in Sources */,
 				801E8AF32B060F1F0033C8AF /* AppDelegate.swift in Sources */,
 				801E8AF52B060F1F0033C8AF /* SceneDelegate.swift in Sources */,
+				801E8B0D2B0625890033C8AF /* PaywallViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
