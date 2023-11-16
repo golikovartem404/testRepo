@@ -16,4 +16,5 @@ class NewViewController: UIViewController {
 
     private lazy var identifier = "Test project"
 
+    var newChange = "New change"
 }
