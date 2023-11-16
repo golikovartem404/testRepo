@@ -8,5 +8,5 @@
 import Foundation
 
 enum Keys {
-    static let apiKey = "1234"
+    static let apiKey = ""
 }
